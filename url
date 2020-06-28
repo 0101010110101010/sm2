@@ -1,5 +1,6 @@
 https://github.com/greendow/SM2-signature-creation-and-verification
 
+https://bbs.csdn.net/topics/390917302?list=43751665
 /*
 SM2是基于椭圆曲线的数字签名算法，关于椭圆曲线的解释可以常见前一篇关于椭圆曲线的微博，下面概要的介绍一下SM2签名的过程。 
 对于要签名的信息ee，这个是原始信息经过一定的处理通过散列函数得到的，散列算法用的是国密SM3算法，这个过程也略过，只介绍重点的签名和验证的过程。
